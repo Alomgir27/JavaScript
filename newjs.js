@@ -1,2 +1,2 @@
 console.log("hello world")
-console.log("Hi, hello")
+console.log('This is Nothing')
